@@ -1,5 +1,12 @@
 {
   "pizza": [
-    
+    {
+      "id": 4,
+      "name": "pizza4sina",
+      "description": "samaya axyennaya pizza",
+      "photo_url":, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxysKKdK9eM4bWCzyD-2od6w8FHaA7trguDrKt3gYlA&s=10",
+      "balance": 1000000
+    }
+
   ]
 }
